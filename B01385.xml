@@ -1,0 +1,1018 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer by an Anabaptist to the three considerations proposed to Mr. William Penn, by a pretended Baptists, concerning a magna charta for liberty of conscience.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01385</idno>
+            <idno type="STC">Wing A3275A</idno>
+            <idno type="STC">ESTC R224289</idno>
+            <idno type="EEBO-CITATION">49520836</idno>
+            <idno type="OCLC">ocm 49520836</idno>
+            <idno type="VID">174079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174079)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2662:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer by an Anabaptist to the three considerations proposed to Mr. William Penn, by a pretended Baptists, concerning a magna charta for liberty of conscience.</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold, by Andrew Sowle at the Three Keys, in Nags-Head-Court, in Grace-Church-Street, over-against the Conduit,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Allowed to be published this 10th day of September, 1688."</note>
+                  <note>Imperfect: tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penn, William, 1644-1718. --  Excellent priviledge of liberty and property.</term>
+               <term>Comber, Thomas, 1645-1699. --  Three considerations proposed to Mr. William Pen concerning the validity and security of his new magna charta for liberty of conscience.</term>
+               <term>Liberty of conscience --  England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174079:1"/>
+            <pb facs="tcp:174079:1"/>
+            <p>An Anſwer BY AN ANABAPTIST TO THE <hi>Three Conſiderations</hi> Propoſed to Mr William Penn, By a pretended BAPTIST, CONCERNING A MAGNA CHARTA FOR <hi>Liberty of Conſcience.</hi>
+            </p>
+            <p>
+               <hi>Allowed to be Publiſhed this</hi> 10th <hi>Day of</hi> September, 1688.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold, by <hi>Andrew Sowle</hi> at the <hi>Three Keys,</hi> in <hi>Nags-Head-Court,</hi> in <hi>Grace-Church-Street,</hi> over-againſt the <hi>Conduit,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174079:2"/>
+            <pb n="3" facs="tcp:174079:2"/>
+            <head>An Anſwer BY AN ANABAPTIST TO THE <hi>Three Conſiderations</hi> &amp;c.</head>
+            <p>YOU deſire, <hi>All your Diſſen<g ref="char:EOLhyphen"/>ting Brethren to Conſider, and then Anſwer.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have Conſider'd, but I cannot tell <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther you ſuppoſe all <hi>Diſſenters</hi> are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brethren, or that all are your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hren who diſſent from you. If firſt, It ſeems probable to me, you have been either Educated in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ange Soyl, or have forgotten <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brothers Dialect; ſo that I can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſcern, that you are any other<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a <hi>Baptiſt</hi> then only in <hi>Maſquerade,</hi> therefore am ſhy of owning the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion: But if all that diſſent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you, muſt therefore be reckon'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brethren, then I am in that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ber, and becauſe I think Mr <hi>Penn</hi> not have ſo much leiſure as my at preſent to attend upon your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, I intend to be in the firſt Rank your Reſpondents.</p>
+            <p>I conſider alſo that though you have propoſed but Three Conſiderations, yet you have bolted out a Mulitude of Queſtions, which adminiſter an occaſion for as many more to be re<g ref="char:EOLhyphen"/>torted.</p>
+            <p>To your firſt Queſtion, Then; <hi>What Validity or Security can any preten<g ref="char:EOLhyphen"/>ded or deſigned future New Law or Char<g ref="char:EOLhyphen"/>ter have, when we ſee ſo many of the preſent Laws we already have, may be, and are by the Diſpenſing Power Diſpenſed with?</hi>
+            </p>
+            <p>
+               <hi>So many of the preſent Laws</hi>— The Grievance then with you may lie rather in the Number, than in the Diſpenſing Power. His Majeſty might with your leave perhaps have diſpen<g ref="char:EOLhyphen"/>ſed with ſome Perſons, and ſome Pe<g ref="char:EOLhyphen"/>nalties too, but not with ſo many al<g ref="char:EOLhyphen"/>together.</p>
+            <p>One would think by that you would not have Quarrel'd at the
+<pb n="4" facs="tcp:174079:3"/>Diſpenſing Fower, tho the Act for levying Twelve Pence a Week had ne<g ref="char:EOLhyphen"/>ver been Proſecuted, ſo as the Twen<g ref="char:EOLhyphen"/>ty Pound a Month had been Levied, nor if the Conventicle Act had been Diſpenſed with, ſo as the Thirty fifth of <hi>Queen Elizabeth</hi> had been rigo<g ref="char:EOLhyphen"/>rouſly Executed.</p>
+            <p>I cannot tell <hi>how many,</hi> but all the Laws that are Diſpenſed with, are <hi>Penal Laws</hi> of a like nature for mat<g ref="char:EOLhyphen"/>ters Eccleſiaſtical: Uniformity, Sa<g ref="char:EOLhyphen"/>craments, Oaths and Teſts are the Subject of them all. If this be your Grief, you muſt be either a Conform<g ref="char:EOLhyphen"/>ing <hi>Baptiſt,</hi> or ſuch a ſtrange ſort of a <hi>Baptiſt,</hi> as in my Forty Years Con<g ref="char:EOLhyphen"/>verſation among them I have never met with.</p>
+            <p>But to come more cloſe to your Queſtion, <hi>What Validity can a New Law have, ſeeing ſo many of theſe we have alrea<g ref="char:EOLhyphen"/>dy are Diſpenſed with?</hi>
+            </p>
+            <p>I Anſwer with a like Interrogation, I grant that the <hi>King</hi> may do what his Royal Pleaſure is with his own, Does it thereupon follow, that He may do ſo likewiſe with what is mine? If I acckowledge and thankfully ac<g ref="char:EOLhyphen"/>cept His Diſpenſing with a Penalty, to which I am Obnoxious, becauſe I take a Liberty in matters of meer Re<g ref="char:EOLhyphen"/>ligion, which I am not allowed by <hi>Statute Laws,</hi> Is it of neceſſry conſe<g ref="char:EOLhyphen"/>quence that I therein acknowledge He may alſo impoſe a Fine upon me for lawfully uſing a Liberty when gran<g ref="char:EOLhyphen"/>ted to me by Law?</p>
+            <p>Its hoped the deſigned <hi>New Charter</hi> for Repeal of ſuch <hi>Penal Laws</hi> as are inconſiſtant with the Doctrines of <hi>Chriſtianity,</hi> will according to <hi>His Majeſties Declaration,</hi> both maintain the <hi>National Religion,</hi> as it is now <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtabliſhed by Law, and provides <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch a <hi>Chriſtian Liberty</hi> as may ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eaſe and Secure the Conſciences, P<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſons and Properties of all that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Live Soberly, Righteouſly and God in this preſent Age, whether they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conformiſts or Non-conformiſts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>National Religion.</hi> And a G<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> remains valid, tho a Penalty may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diſpenſed with.</p>
+            <p>But what if the <hi>New Law</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have no more Validity or Sec<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> then theſe Old Ones that are D<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſed with? The <hi>Diſſenters</hi> will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be in ſo much a better Caſe by a New Law, as that they will then be Se<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by Law, whereas till that be done, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are always ſubject to be Ruin'd <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> colour of Law. But why are you Querulous at the Diſpenſing Po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in this particular caſe wherein it Exerciſed? The <hi>King</hi> declares his O<g ref="char:EOLunhyphen"/>pinion, <hi>That Conſcience ought not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſtrained, nor People forced in m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of meer Religion.</hi> This Principle the ground of his Diſpenſation. H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you not lately obſerved, T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Gentlemen, who being in Comm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> would not Execute theſe <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and were therefore for a ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſide, are now returned again <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their former Stations, with R<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on, and the Love of their <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>bours? Have you not Re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Ap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>logy for the <hi>Church of England</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> relation to the Spirit of Perſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> for which ſhe is accuſed? How <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> former Errors are ext<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtances, <hi>pag.</hi> 4. That <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament) of the <hi>Church of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> did not perform what <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> miſed by ſome Leading M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="5" facs="tcp:174079:3"/>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ters</hi> (in procuring them a Bill of yet there was little or nothing againſt them for about Nine <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; but they had their <hi>Meetings</hi> al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as publickly &amp; as regularly as the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h of England</hi> had their <hi>Churches.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ou not remember a Vote of the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Commons</hi> in 1680. whereby it Reſolved, <hi>That the Proſecution of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtant Diſſenters <hi>upon the</hi> Penal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>was at that time Grievous to the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ct.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all the <hi>Juſtices</hi> that did not Exe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> theſe Laws gain Eſteem by it? the <hi>Church of England</hi> excuſe her from the charge of Severity by not Executing theſe Laws for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Years together? Shall the <hi>Com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in Parliament</hi> Vote the Execution <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em a Grievance? And may not <hi>King</hi> extend his Compaſſion to<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds his Diſſenting Subjects, and ſay <hi>ſhall not be Executed?</hi> To make a ſignal Act of Grace the ground groundleſs Jealouſie, and cauſe Contention, to ſay no worſe of it) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ghly Diſingenuous, and diſcovers <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ry froward and perverſe Diſpo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n: But let us conſider your next <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Queſtions.</p>
+            <p>
+               <hi>Have we, or can we have any higher <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er here in</hi> England <hi>then</hi> King, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds <hi>and</hi> Commons <hi>in Parliament Aſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>led? The Laws that are now Diſpen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with, and rendred uſeleſs, were they made by that Power? Can your</hi> New <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rter <hi>be made by any higher or other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er? Do you think there is any Tempo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Spiritual Power here in</hi> England <hi>a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the Diſpenſing Power? And can you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it appear to us?</hi> To theſe Queſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> you deſire Mr <hi>Penn</hi> would let his Brethren and you know his Mind honeſtly.</p>
+            <p>In his ſtead I Anſwer, We have no Law Makers, but <hi>King, Lords</hi> and <hi>Commons</hi> in Parliament Aſſembled, but yet we are in <hi>England,</hi> as well as in o<g ref="char:EOLhyphen"/>ther parts of the World, under a <hi>Law to God,</hi> and thereby each Man is obli<g ref="char:EOLhyphen"/>ged to preſerve within his own Breaſt the Anſwer of a good Conſcience, from which no Law of <hi>King, Lords</hi> and <hi>Commons</hi> can abſolve him; and hence it is that we have many Fundamental Maximes of Law grounded upon the <hi>Law of God,</hi> and <hi>common Reaſon of Man<g ref="char:EOLhyphen"/>kind,</hi> as well reſpecting the <hi>Soveraigns Prerogative,</hi> as the <hi>Right of the Subject,</hi> not written in Acts of Parliament, but in their Nature ſo invariable, <hi>That</hi> (as our <hi>Lawyers</hi> tell us) <hi>Acts of Par<g ref="char:EOLhyphen"/>liament made againſt them are void in themſelves.</hi> And if this Opinion be true, theſe Fundamental Maximes of Law, whether in Spirituals or Tem<g ref="char:EOLhyphen"/>porals, tho they may be for a ſeaſon by a particular Act of Parliament in<g ref="char:EOLhyphen"/>terrupted, they are not thereby vaca<g ref="char:EOLhyphen"/>ted, but ſtill retained, and will at one time or other again diſcover their Vi<g ref="char:EOLhyphen"/>gor. Acts not contradictory to theſe Fundamental Laws may be uſeful for a ſeaſon, but not having that innate Stabi<g ref="char:EOLhyphen"/>lity as Fundamental Maximes have, may afterwards become uſeleſs, impro<g ref="char:EOLhyphen"/>per and grievous to be put in Executi<g ref="char:EOLhyphen"/>on; hence thoſe common diſtinctions between <hi>Malum in ſe, &amp; malum prohi<g ref="char:EOLhyphen"/>bitum.</hi> And ſubſequent thereto, in many caſes a power or no power of Diſpenſing, That which is unlawful in it ſelf to be done, as <hi>Murther, Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft, Treſpaſs,</hi> and the like, cannot be made
+<pb n="4" facs="tcp:174079:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:174079:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:174079:5"/>lawful by any Law or Diſpenſation whatſoever. That which is lawful in it ſelf, but becomes unlawful, becauſe prohibited by a particular Statute, may be Diſpenſed with, ſo as no particular Perſon be Damnified by that Diſpen<g ref="char:EOLhyphen"/>ſation, and not otherwiſe. Among the many Viciſſitudes of Succeſſion to the <hi>Crown,</hi> between the two Houſes of <hi>York</hi> and <hi>Lancaſter,</hi> Do you think there were no Laws in being, made in the Raign of a King of one of theſe Branches (in Fact) diſpens'd with by his Succeſſor of the other Branch, till they came to be Repealed in Parlia<g ref="char:EOLhyphen"/>ment? Were the <hi>Oathes of Fidelity and Obedience</hi> made to the Line Inter<g ref="char:EOLhyphen"/>rupted, required to be taken by all <hi>Judges, Juſtices, Sheriffs,</hi> and other <hi>Officers</hi> Commiſſionated by the other Line which ſucceeded, until they were Repealed in Parliament? In the va<g ref="char:EOLhyphen"/>rious changes of the <hi>National Religion,</hi> between the Reigns of <hi>King Henry</hi> the the Eighth and <hi>Queen Elizabeth,</hi> were all Penalties impoſed by Laws reſpect<g ref="char:EOLhyphen"/>ing Religion, exacted without any Relax or Suſpenſion, till thoſe Laws were Abrogated in Parliament. In the firſt Year of <hi>King Henry</hi> the Fourth a whole Parliament held in the Twen<g ref="char:EOLhyphen"/>ty firſt of <hi>Richard</hi> the Second was Re<g ref="char:EOLhyphen"/>pealed: In one of which Laws then made, divers Pains of Treaſon were ordained, whereby, as the Act of Repeal ſays, <hi>No Man did know how he ought to behave himſelf to Do, Speak or Say for doubt of ſuch Pain;</hi> and if that Law had been Religiouſly obſerved till the moment of its Repeal It could never have been repealed. In the Se<g ref="char:EOLhyphen"/>cond Year of <hi>Richard</hi> the Third, a Statute made in the Firſt of the ſaid <hi>King</hi> was Diſ<g ref="char:EOLhyphen"/>penſed with by <hi>Proclama<g ref="char:EOLhyphen"/>tion.</hi>
+               <note place="margin"> Vaugh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pag. 353<g ref="char:punc">▪</g>
+               </note> Now I would gladly hear wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cauſe my pretended Brother <hi>Bap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> has to Quarrel at his preſent <hi>Maje<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> gracious Diſpenſing with Laws in<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing Temporal Penalties for Eccleſiati<g ref="char:EOLhyphen"/>cal Matters, and rendring then uſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſs for the preſent, in that reſpe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> only, till they can be Repealed Par<g ref="char:EOLhyphen"/>liament. And wherein the exceed of this Diſpenſing Power has exce<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed what has been in Fact done by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Royal Predeceſſors,</hi> and admitted may be lawfully done by our greateſt <hi>Law<g ref="char:EOLhyphen"/>yers.</hi> But to proceed,</p>
+            <p>
+               <hi>Shall your</hi> New Charter <hi>have a Pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty inſerted to be inflicted on the Infringe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or Breakers of it or no? If not, W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will your</hi> New Charter <hi>ſignifie? N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> three skips of a Lowſe: And if it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Penalty, Cannot any King by his Prero<g ref="char:EOLhyphen"/>gative and Authority Royal Diſpence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Penalty? And what will it ſign<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> then?</hi>
+            </p>
+            <p>This pretended <hi>Baptiſt's</hi> Reſolution of the firſt of theſe Queſtions is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Weak as it is Idle, and both that an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the others, may receive a ſatisfactory Anſwer.</p>
+            <p>Such a <hi>New Charta</hi> as is deſired, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Penalty be annex'd, may be very ſignificant in many reſpects, (1) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be materially good and oblig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, to Obedience by its innate Vertue, o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pain of Condemnation by the Divin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Law; and in that reſpect of greater ſignification, and much more deſirable then ſuch Laws as are materially <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, and cannot be obeyed without Brea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a <hi>Law of God.</hi> (2) This <hi>Ne<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ter</hi>
+               <pb n="7" facs="tcp:174079:5"/>may, without annexing any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lties, Repeal all thoſe Penalties, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which Perſons are compelled to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rm Acts of Divine Worſhip, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ary to their Underſtanding, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and a Good Conſcience, and put <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Power of any Diſpenſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o revive thoſe Laws, or to im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Penalties of the like kind. (3) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <hi>New Law</hi> may without any Pe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s by its ſimple Declarations put <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e to that, which is now unrea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly made the ground of all our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſts, and confirm to us all thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by which our Liberties and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rties are preſerved.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſuming it may alſo have Pe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inſerted to be inflicted on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gers or Breakers of it, Theſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſo qualified as not to be Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with; (if under the colour <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>f evil minded Men do not prac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on the Soveraign Power: For <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a caſe, if the Soveraign Power <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſpence with the Penalty of a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Laws,</hi> it may be diveſted of ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as are neceſſary for its own Pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on, (but in any ordinary caſe, if <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſon or Body Corporate receive <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lar Damage by the breach of <hi>New Law,</hi> He or They may if the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tors pleaſe, be Intitled to a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lar Action by the ſame Law, and recover Damages againſt the Breakers of it, <note place="margin"> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rep.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 342.</note> at the <hi>Kings</hi> Suit, by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent, or Preſentment, or by a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Action, with which the <hi>King</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſpence.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Inſtance you give, to put us <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Doubt, in Mr <hi>Langhornes</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, touching the <hi>Kings</hi> Right in Diſpenſing with <hi>Penal Laws,</hi> I ſhall not Repeat, but only obſerve, That the Opinion you cite (however you may do it in ſcorn) carries ſuch an Evidence in it for a Diſpenſing Power (not in ordinary Caſes, as that Author has well obſerved) but upon extraor<g ref="char:EOLhyphen"/>dinary Occaſions, when the <hi>King</hi> in his Wiſdom ſhall find it neceſſary, as calls for more Cunning then I yet per<g ref="char:EOLhyphen"/>ceive in you, to raiſe any material Ob<g ref="char:EOLhyphen"/>jection againſt it.</p>
+            <p>Qu. <hi>Now where is the aſſurance then of Mr</hi> Penn's <hi>New Charter?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Our Aſſurance will lie not on<g ref="char:EOLhyphen"/>ly in the Authority of the Legiſlators, equal to any other Law, but alſo in the Authority of the Matter, which will command an Aſſent in every Mans Conſcience aſſoon as he reads it, <hi>Not to do that to another, which he would not have done to himſelf.</hi> Our Aſſurance will be in our Love and Affection One towards Another, as Neighbours con<g ref="char:EOLhyphen"/>cern'd to promote the common Inte<g ref="char:EOLhyphen"/>reſt of the Realm. In the Watch<g ref="char:EOLhyphen"/>fulneſs of all Parties againſt any one particular Faction, if any ſuch ſhould riſe up, and attempt to in thrall the Conſciences of all the reſt, in our thankful and dutiful Behaviour to<g ref="char:EOLhyphen"/>wards our Soveraign for breaking off thoſe intolerable Yoaks we could not bear, and ſetting us upon ſuch a laſt<g ref="char:EOLhyphen"/>ing Foundation, both for our Civil and Religious Liberties, as with a diſcreet. Care and Managemant of them may remain firm to Perpetuity.</p>
+            <p>Qu. <hi>But who can tell what King we
+<pb n="8" facs="tcp:174079:6"/>may have after our preſent</hi> Soveraign <hi>whether ſo mercifull, or ſo juſt? Or what</hi> SheriffS <hi>the next</hi> King <hi>may choſe, and what Returns of</hi> Parliament Men <hi>they may make? For you know the Forfeiture on the</hi> Sheriffs <hi>making a falſe Return is no great matter, and cannot a</hi> King <hi>par<g ref="char:EOLhyphen"/>don it by his Diſpenſing Power or Autho<g ref="char:EOLhyphen"/>rity Royal? What will, nay what can your n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w</hi> Charter <hi>then ſignifie, when it either is or may be, (according to your own Doctrin) Invalidated, Diſannlled, or Annihilated in an inſtant.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> If there ſhould be raiſed by my Quereſt, or any other like him, ſuch a perverſe Spirit and behaviour in any Party of Men, as to prevent the Nations ſelted enjoyment of theſe Priviledges we now have as Men and Chriſtians, by his Majeſties Prudence, Juſtice and Clemency, who can tell (indeed) what the ſad Conſe<g ref="char:EOLhyphen"/>quences of it may be? But if Duty, Reaſon and common Intereſt prevail, here is nothing offer'd that ſhould cauſe any Man to ſlack his utmoſt di<g ref="char:EOLhyphen"/>ligence and endeavours to arrive at the Settlement propoſed by a <hi>New Charter.</hi> For what do theſe Queries tend to, or what of any weight do they con<g ref="char:EOLhyphen"/>tain? For,</p>
+            <p>Firſt, <hi>Does</hi> William Penn, <hi>or any party of</hi> Diſſenters <hi>propoſe any ſuch Methods to be perſued, as may ad<g ref="char:EOLhyphen"/>vance Prerogative to that degree, as to Invalidate, or Annihilate all our Laws?</hi>
+            </p>
+            <p>Secondly, <hi>Is not the National Religion, as it is Stiled in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> firſt place to be maintain<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as well ſecured, as any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> new Law can make it with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Liberty for conſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cion,</hi> D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ters <hi>from it in the worth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (Expl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing of all Li<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſs) as may free th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> future inconveniency upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Religion.</hi>
+            </p>
+            <p>Thirdly, <hi>Is any thing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that by a</hi> new Cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> power ſhould be given to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for chooſing of</hi> Sheriffs, <hi>tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he has, or that the penalti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a</hi> Sheriffs <hi>making falſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall be leſs then now they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or any thing elſe to retur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Caſe worſe then it is.</hi>
+            </p>
+            <p>You take it for granted, <hi>I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> which I do not know, nor you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither, as I ſuppoſe, that the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Forfeiture, who ſhall make a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> turn is no great matter, or that the <hi>King</hi> can pardon, or di<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> with. The Caſe of S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Sam<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nardiſton</hi> whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ein he had a Ver<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Eight Hundred Pounds damage againſt a <hi>Sheriff</hi> for a falſe Retur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inform you otherwiſe; and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly a <hi>new Charter</hi> will not ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Penal then now it is, but if it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever happen, notwithſtanding <hi>Charter,</hi> as it has heretofore <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> notwithſtanding our <hi>old Charter,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Knights and Burgeſſes ſhould <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> duly choſen; the ſame Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tend ſuch a Parliament, as di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of 38 <hi>H.</hi> 6.</p>
+            <pb n="9" facs="tcp:174079:6"/>
+            <p> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow come to your ſecond Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on, wherein you pray Mr <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to conſider, <hi>What his</hi> New <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ter <hi>can ſignifie, ſo long as there High Commiſſion Court, or a high miſſion for Eccleſiaſtical Affairs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>? Cannot thoſe Commiſſioners <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> any of your and our Preachers, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hers, or Miniſters to Task when <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe? Cannot they, when they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a mind to it, ſuſpend Mr</hi> Pen, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>corge Whitehead, <hi>Mr</hi> Alſop, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>obb, <hi>Mr</hi> Mead, <hi>or Mr</hi> Bowyer, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as the</hi> Biſhop of London, <hi>&amp;c. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot the Court when they will; or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> think fit, or be commanded, ſuſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſilence or forbid any or all the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing Miniſters to Preach any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in their Meetings, if they will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Read any Declaration or Order <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever, that the King ſhall ſet forth require them to Read? Remember</hi> Magdalen Colledge Men; <hi>Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ber alſo that Sawſe for a</hi> Gooſe <hi>is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay be Sawſe for a</hi> Gander.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ.</hi> The caſe of <hi>Magdalen Col<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> is publiſhed at large, you may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d it if you pleaſe, and Anſwer <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you can, eſpecially the para<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe in <hi>Edwards</hi> the Sixth time. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pray what is that to a <hi>New <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ter?</hi> If wrong Judgment was <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n by the Court (as you per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s ſuppoſe) in that caſe, do you <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e no difference between Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing with a Law, and wrong <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gment given againſt a Law (if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch ſhould be) in <hi>Weſtminſter</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or the <hi>Eccleſiaſtical Court.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the <hi>Diſſenters</hi> you name, or you who pretend to be a <hi>Baptiſt,</hi> be of the <hi>Clergy of England</hi> in the Eye of the Law, and hold Eccleſiaſtical Affairs and Benefits, they or you may for Miſ-behaviour be ſuſpend<g ref="char:EOLhyphen"/>ed from them by the Eccleſiaſtical Commiſſioners. But why do you fancy that a <hi>New Charter</hi> (by which it is expected that Penalties for matters of meer Religion will be repealed) ſhould be made to ſignifie nothing, by the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Commiſſioners which now are; I can eaſily fore-ſee that a <hi>New Char<g ref="char:EOLhyphen"/>ter</hi> may make that Commiſſion in the caſes you mention to ſignifie nothing; but I cannot imagine how that Commiſſion ſhould make a <hi>New Charter</hi> inſignificant. As to the ſilencing of Diſſenting Mini<g ref="char:EOLhyphen"/>ſters, its evident as the Law now is, their reading or not reading the <hi>Kings Declaration</hi> in their Meetings will not prevent it, if the King with<g ref="char:EOLhyphen"/>draw his Favour, nor is there any cauſe to give the Eccleſiaſtical Com<g ref="char:EOLhyphen"/>miſſioners any trouble about them; for as the Laws now are there are other Eccleſiaſtical Courts, which with the aid of the Juſtices at their Seſſions are ſufficiently impowred to Cenſure, Fine, Impriſon, Baniſh or Hang them for their Non-con<g ref="char:EOLhyphen"/>formity to the Religion Eſtabliſhed by Law.</p>
+            <p>You exhort us <hi>to ſee before we Leap, whether the Words in the Orders ſet forth in the</hi> Gazett, <hi>for contempt of his Majeſties Authority will run no further then juſt Mr</hi> Penn <hi>will have it.</hi> And ask, <hi>Can he ſtop the Current of it
+<pb n="10" facs="tcp:174079:7"/>when he pleaſes?</hi> and ſays, <hi>If he could, we are not ſure he would; for formerly he had no great kindneſs (we know) for us</hi> Baptiſts <hi>and other</hi> Diſſenters, <hi>and if he could and would we are not ſure of his Life, how long; therefore it will be the greateſt piece of Weakneſs and Folly in the World for us to Dance af<g ref="char:EOLhyphen"/>ter his and the Jeſuits Pipe alone, con<g ref="char:EOLhyphen"/>trary both to all common Sence and Reaſon, and our own general Intereſt.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> How do you make out your Inference, <hi>That to do as you ſay is the greateſt piece of Weakneſs and Folly?</hi> I take it to be altogether as great folly to Dance after your Pipe in Company, contrary to common Sence, Reaſon and Intereſt, as af<g ref="char:EOLhyphen"/>ter Mr <hi>Penn</hi> and the <hi>Jeſuites</hi> alone; ſurely in this you take the <hi>Diſſenters</hi> to be very forgetful of what their Senſes ſo lately teſtified, when un<g ref="char:EOLhyphen"/>der the feeling Proſecution of <hi>Pe<g ref="char:EOLhyphen"/>nal Laws,</hi> and to be unreaſonably ignorant of their Intereſt in de<g ref="char:EOLhyphen"/>ſiring thoſe <hi>Penal Laws</hi> may be Re<g ref="char:EOLhyphen"/>pealed in Parliament, and a due <hi>Liberty of Conſcience</hi> Eſtabliſhed in their room. But for what cauſe do you reflect upon Mr <hi>Penn?</hi> I take it as a certain Evidence, that all Pamphlets on this Subject, that are interlaced with perſonal Reflections aſſerted on Surmiſes, without proof, are deſigned to promote Factions Diſſentions, rather then to Unite in one common Intereſt, and heal our uncharitable Diviſions. I have known Mr <hi>Penn</hi> for many Years, and have been credibly informed by others, that from his Age of Seventeen Years he has been an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mate Aſſociate with the moſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nent of <hi>Diſſenters,</hi> that when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was of <hi>Chriſt Church Colledge</hi> in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> he was fined for his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the Religious Ceremonies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Colledge: He ſuffered <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hardſhips in his Fathers Family <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that account, has been a con<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Advocate theſe Twenty Years <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Liberty we enjoy and hope <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to have confirm'd: I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of many good Offices he has <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at Court, both for <hi>Diſſen<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Conformiſts;</hi> &amp; that he has imp<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> that Favour which has been <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him by his Prince, both before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſince his Aſcending to the Th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for the Benefit and not to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> judice of others: I have not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of any rich Preſents or Rew<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that have been given or required any of his Services, or any <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ployments he ſeeks or accepts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> How his pleadings for <hi>Liberty Conſcience</hi> has or can tend to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> improvement of his Revenues, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot apprehend neither; th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore if you will free your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the ſuſpition of an ill <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſign, and a groundleſs Aſpe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> tho Mr <hi>Penn</hi> may be no Frien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch pretended <hi>Baptiſts</hi> and now <hi>Diſſenters</hi> as you are; its incu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on you to ſhew wherein he has <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nifeſted that he had formerly great Kindneſs for thoſe that really ſuch upon this account.</p>
+            <p>I paſs by your trifling about enlarging or limiting Authority the power or will, length or <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>neſs of Mr <hi>Penn</hi>'s Life, and pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="11" facs="tcp:174079:7"/>Thirdly, <hi>To conſider above all what <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ity or Validity this</hi> New Charter <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>be of, when there is a ſtanding Ar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> kept on Foot? Whether</hi> Guns <hi>will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reaſon, or</hi> Dragoons <hi>mind Char<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> or Arguments? your reference to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> practice in</hi> France, <hi>if we are not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>angely Infatuated and given up to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n and Deſtruction; your Query <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ether their Carriage and Quartering <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll agree with a</hi> New Charter <hi>for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iberty, and if Mr</hi> Penn <hi>be a Friend <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Liberty for Liberties ſake, you de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e an honeſt, clear nnd ſatisfactory Anſwer to theſe Three Points.</hi>
+            </p>
+            <p>In Mr <hi>Penn</hi>'s ſtead give me leave <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t preſent to return you an anſwer, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y asking you ſome Queſtions; Is the <hi>Weſtern Rebellion,</hi> ſlipt out of your mind? Was there no occaſi<g ref="char:EOLhyphen"/>on given for multiplying <hi>Dragoons?</hi> Is <hi>Soveraign Power</hi> ſo limited by our Laws, as that it cannot make uſe of ſuch means as are of apparent and abſolute neceſſity for its own preſer<g ref="char:EOLhyphen"/>vation? Did you ever know of any <hi>Army</hi> wherein no diſſorders were committed in their Marches, or Quarternings? Are our <hi>Dragoons</hi> without any diſcipline, for reform<g ref="char:EOLhyphen"/>ing or puniſhing abuſes when they are complained of?</p>
+            <p>Do you, and ſuch as follow your Examples, take a right courſe to avoid ſuch miſchiefs, being done in <hi>England</hi> by <hi>Dragoons,</hi> as are com<g ref="char:EOLhyphen"/>mitted in <hi>France?</hi> I am as far from defending any of their diſorders, or deſiring their continuance longer then needs muſt, as I am from belei<g ref="char:EOLhyphen"/>ving you to be a <hi>Baptiſt.</hi>
+            </p>
+            <p>But ſure I am, whatever you are, your Reaſoning are very unfavory, and unſafe, tending to faſten us un<g ref="char:EOLhyphen"/>der that Bondage, you ſeemingly adviſe us to avoid; for to deal plainly and honeſtly with you, (as you deſire Mr <hi>Penn</hi> to do) I ſee no way to eſcape the diſſorders that are either felt or feared, but by gi<g ref="char:EOLhyphen"/>ving His <hi>Majeſty</hi> full ſatisfacti<g ref="char:EOLhyphen"/>on, not only of our Fidelity, but of our Affection alſo to his Perſon and Government, in complying with what he ſhall propoſe, for maintenance of the <hi>National Religi<g ref="char:EOLhyphen"/>on,</hi> and all the poſſeſſions of the <hi>Clergy,</hi> as Eſtabliſhed by Law, and aboliſhing all ſuch Penalties for Non-conformity to the <hi>National Re<g ref="char:EOLhyphen"/>ligion,</hi> as may be found inconſiſtent with the common Right and Rea<g ref="char:EOLhyphen"/>ſon of <hi>Mankind,</hi> Doctrines of <hi>Chri<g ref="char:EOLhyphen"/>ſtianity</hi> and Intereſt of <hi>England.</hi>
+            </p>
+            <p>I ſhall now conſider your cloſing points (1) <hi>In the mean time it ap<g ref="char:EOLhyphen"/>pears to be highly the Duty of all Men as well Diſſenters as others, who have Votes in chooſing Parliament-Men, a<g ref="char:EOLhyphen"/>bove all to chooſe ſuch Faithful Patriots as will take care of theſe things already hinted, and others that may be brought before them; that our Liberties, our Laws, and our Lives may be preſer<g ref="char:EOLhyphen"/>ved from ill deſigning Men, and from fu<g ref="char:EOLhyphen"/>ture</hi> Quo Warranto's, <hi>and all the high Violaters and Infringers thereof called to accompt, and juſtly puniſhed; this will well become them, and ſecure us, more then any titular Charter whatſo<g ref="char:EOLhyphen"/>ever.</hi>
+            </p>
+            <pb n="12" facs="tcp:174079:8"/>
+            <p> If you had only adviſed the chooſing Faithful Patriots for Par<g ref="char:EOLhyphen"/>liament-Men, without cutting out their Work, your advice might have been ſound; or if you had on<g ref="char:EOLhyphen"/>ly looked forwards that our Liber<g ref="char:EOLhyphen"/>ties, and our Lives might be pre<g ref="char:EOLhyphen"/>ſerved from ill deſigning Men; and our Laws ſo ſettled, that all good Subjects may equally ſhare in the benefit of them; your Advice might have been ſeaſonable; for it is evident that our Circumſtances require as wiſe and moderate Men, experienced in civil and Religious affairs, as every <hi>Parliament</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> did; and if the Nation be bleſs'd with ſuch a Choice in the next <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> all ſober perſons, may by their wiſe Councels be out of fear of ſuffering Prejudice by future ac<g ref="char:EOLhyphen"/>cidents of State: But at this juncture to talk of calling to an Accompt, and puniſhing all ſuch as you may reckon high Violaters and Infrin<g ref="char:EOLhyphen"/>gers of our Laws and Liberties is very unſeaſonable: Pray tell us ſince you undertake to Chalk out the way for a <hi>Parliament,</hi> and pro<g ref="char:EOLhyphen"/>poſe the Work you would have done by them, how far they are to look back, and where and with what ſort of Men you would have them begin; with ſuch of the <hi>Cler<g ref="char:EOLhyphen"/>gy,</hi> or of the <hi>Lawyers,</hi> as were the firſt Advancers of Prerogative a<g ref="char:EOLhyphen"/>bove your meaſures; or with the <hi>Diſſenters</hi> for thankfully accepting the <hi>Kings Indulgence,</hi> and making uſe of the Liberty he has been plea<g ref="char:EOLhyphen"/>ed to grant in their peaceable and Religious Aſſemblies? after ſo ma<g ref="char:EOLhyphen"/>ny Convulſions in the State, Pl<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and Counter-plots as we have known in our Age. The ſame things to be liable to Penalties <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one ſeaſon, which at another time have been marks of the greateſt Loyalty; ſober Men cannot but think it is high time to adhere to, and perſue thoſe Royal Methods, that have been with good ſucceſs begun, and are propoſed to be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tled on terms of laſting ſecurity and Peace.</p>
+            <p>If the Caſe ſhould be propoſed to any Aſſembly (your ſelf being in the company) in reference to any Man that you can mark out as it was by the <hi>Jewes,</hi> in reference to the <hi>Adultereſs</hi> before our <hi>Saviour, That he who is without Fault ſhould caſt the firſt Stone,</hi> your ſuppoſed Criminal might eſcape by the Aſ<g ref="char:EOLhyphen"/>ſemblys going out one by one, from the Eldeſt to the laſt convict in their own Conſciences; and if you ſhould have the confidence to ſtay behind the reſt, it might be no good evidence of an awaken'd Conſcience; but if Peace-makers have ſingular marks of favour al<g ref="char:EOLhyphen"/>ways attending them, certainly ſuch worthy Patriots as at this ſea<g ref="char:EOLhyphen"/>ſon ſhall be found in that Work, repairing our Breaches, healing our Diviſions, ſetling our Civil and Religious concerns, that who<g ref="char:EOLhyphen"/>ever will conſcientiouſly diſcharge his duty to <hi>God,</hi> his <hi>King</hi> and his <hi>Neighbour,</hi> may not only enjoy Peace and Truth in his Days, but leave it on like terms as a Bleſſing
+<pb n="13" facs="tcp:174079:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Poſterity, will deſerve the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſt marks of favour from all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d Men, and may therein alſo <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſt a Bleſſing from Heaven.</p>
+            <p>
+               <hi>Liberty,</hi> ſay you, <hi>is indeed a Fine <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d, but Remember Brethren what Apoſtle</hi> Peter <hi>hath told us, <hi>That <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> there were, that while <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> promiſe them Liberty they <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ſelves are the Servants of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ruption?</hi> And Obſerve what <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ws; <hi>For of whom [a Man is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome, of the ſame he is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ght in Bondage,</hi>
+               </hi> And then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ask (I ſuppoſe Mr. <hi>Penn</hi> or my <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> How Do You. <hi>How will you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that Word?</hi>
+               </hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> I like it as part of Holy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Teaching me (1) Not to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e that Liberty whereunto I am <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by the Goſpel, (2) To prize <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Liberty in the Goſpel which is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lged me by my <hi>Soveraign</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>romote what in me lyes, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bliſhing of it by a <hi>New Charter</hi> (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) Not to hearken to you, or any, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>th perhaps did never feel the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this Liberty, and would guide me of it, by talking of Li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies of another Sort which ſigni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> nothing to me or any other Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tious <hi>Diſſenters,</hi> if we be depri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of this (4) as inducing me <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the better underſtanding of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you cite) to conſider the Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by which I am caution'd not <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ken to any ſuch, as promiſe Liberty, who are themſelves <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by, and in Bondage to their own Fleſhly poluting Luſts,</hi> (5) as inſtructing me by certain Characters to diſcern what ſort of Perſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are who (by enticing Words would beguile me of my Liberty: chiefly ſuch as deſpiſe Government, are Preſumptious, and not afraid to ſpeak <hi>Evil</hi> of Dignities: And with this ſhort Paraphraſe, I may after your Example, ask, <hi>How do You; Or how will you like that word?</hi>
+            </p>
+            <p>In this I agree with what you ſay, <hi>The Name of Liberty ſignifies nothing without the Subſtance. And that which the Diſſenters deſire and endeavour af<g ref="char:EOLhyphen"/>ter, is that ſuch a Liberty may be ob<g ref="char:EOLhyphen"/>tained, and ſecured by a</hi> New Charter <hi>to Perpetuity as is ſubſtantial:</hi> But in this we may differ, if you think a preſent Liberty ſignifies nothing, for it is now, and will be at all times, ſo long as we can enjoy it, the preſent comfort of our Lives, and of ſo great value, that I think he that has felt the want of it, will not eaſily be enticed to make a For<g ref="char:EOLhyphen"/>feiture of his preſent Liberty, by taking any ſuch courſe as you ſteer to <hi>Secure Penal Laws</hi> for Coertion of Conſcience under the Name of <hi>Subſtantial and Engliſh Liberties,</hi> If theſe <hi>Penal Lawes be the Gooſe</hi> you adviſe us not to part with for ſtick<g ref="char:EOLhyphen"/>ing down a Feather; and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Bird in the Hand, I cannot Gueſs how you came to be a <hi>Baptiſt;</hi> ſure I am you do not ſhew your ſelfe in the Colours of an <hi>Engliſh Anabaptiſt,</hi> for your courſe tends to the bind<g ref="char:EOLhyphen"/>ing of Heavy Burthens on their and other <hi>Diſſenters</hi> Shoulders, which its moſt likely you never did,
+<pb n="14" facs="tcp:174079:9"/>nor will touch with one of your Fingers.</p>
+            <p>You exhort us, <hi>To be of one mind as Brethren, to let Brotherly Love and Charity continue,</hi> and tell us, <hi>nothing will ſave us but <g ref="char:V">Ʋ</g>nion.</hi> Pray take your part in the Exhortation let Brotherly Love have a beginning (for I fear that is not yet ſettled between us) and then I doubt not but the profitable Experience of the Exerciſe of it will give it a continuance; If you are for uni<g ref="char:EOLhyphen"/>ting, be content to part with thoſe Offenſive Weapons that have cau<g ref="char:EOLhyphen"/>ſed our diviſions, let our Civil Liber<g ref="char:EOLhyphen"/>ties as Men, and our Religious Li<g ref="char:EOLhyphen"/>berties as Chriſtians be ſettled upon ſure Foundations, let tem<g ref="char:EOLhyphen"/>poral penalties, for diſſent in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rituals be ſet aſide, and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Names of Sedition, Felony Tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be ſerver'd from ſuch things as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in no manner offenſive to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vil Government, but meer Opinio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and peaceable Exerciſes ſubſequ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in matters of Religion. Let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> learn to be kindly affectionate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Compaſſionate as Men and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bours ought to be one to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whether <hi>True Believers, Mu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> or <g ref="char:V">Ʋ</g>nbelievers</hi> and then the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be no ground to fear that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ruptions or projects of <hi>Rome, Ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>va, France, Holland,</hi> or any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> elſe ſhould ever diſ-unite <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be able to gain any advantage attempting to ſow amongſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Seeds of Diſſention.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174079:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
